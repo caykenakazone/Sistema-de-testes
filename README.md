@@ -8,7 +8,7 @@
 ### ✔ Funcionalidades
 
   - [x] Fazer testes
-  - [x] Atualização da lista de filmes
+  - [x] Testes de construtores, getters e setters
  
 
 ### 🛠 Tecnologias

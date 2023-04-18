@@ -17,3 +17,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - Java
 - JUNIT
+- TDD
+
+### 📞 Contato
+<a href="https://www.linkedin.com/in/carloscaykebn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
